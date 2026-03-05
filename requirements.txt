@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+transformers
+accelerate
+sentencepiece
+opencv-python-headless
+scikit-learn
+pillow
+matplotlib
+hdbscan
+ruptures
