@@ -40,6 +40,8 @@ Final Video Summary
 
 # To run
 
-clone this repo
+```text
+clone this repo 
 pip install -r requirements.txt
 streamlit run app.py
+```
